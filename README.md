@@ -1,2 +1,2 @@
-# osis
-New Scoliosis site
+# osis.tv
+No bells and/or whistles
